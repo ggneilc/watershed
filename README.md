@@ -1,4 +1,4 @@
-# Assignment 1
+# Watershed Simulation
 
 This program serves as a singular cellular automaton, representing a cubic square of terrain and how fluid would flow over said terrain and how it would collect. 
 
